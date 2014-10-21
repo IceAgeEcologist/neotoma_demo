@@ -7,7 +7,7 @@
 #See also:  Goring et al. (in review) Open Quaternary
 #neotoma: A Programmatic Interface to the Neotoma Paleoecological Database
 #https://github.com/SimonGoring/neotoma_paper
-
+++++++++++++++
 #Install neotoma package from GitHub repository
 #(Note: neotoma will soon be available on CRAN)
 install.packages("devtools")
